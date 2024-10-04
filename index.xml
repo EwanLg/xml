@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE commercial SYSTEM "commercial.dtd">
-<commercial nom="Garrec" prenom="Jean">
+<commercial>
     <client nom="Renard" prenom="Nicolas" mail="nrenard@gmail.com" mobile="0699305567">
         <demande>
             <destination>Mexique</destination>
