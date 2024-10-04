@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8">
+<!ELEMENT commercial>
+<!ELEMENT client (Nom, Prenom, Mail, Mobile)>
+<!ELEMENT demande>
+<!ELEMENT destination>
+<!ELEMENT periode>
+<!ELEMENT duree>
+<!ELEMENT nbParticipants>
+<!ELEMENT tarifMax>
+<!ELEMENT propositions>
