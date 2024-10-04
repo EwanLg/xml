@@ -15,16 +15,5 @@
         </demande>
     </client>
     <client nom="Grenapin" prenom="Dorothée" mail="grenapin@ft-group.com" mobile="0299123455">
-        <demande>
-            <destination></destination>
-            <periode></periode>
-            <duree></duree>
-            <nbParticipants></nbParticipants>
-            <tarifMax></tarifMax>
-            <propositions>
-                <proposition></proposition>
-                <proposition></proposition>
-            </propositions>
-        </demande>
     </client>
 </commercial>
