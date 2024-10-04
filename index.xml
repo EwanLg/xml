@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE CD SYSTEM "cd.dtd">
+<!DOCTYPE commercial SYSTEM "commercial.dtd">
+<commercial>
+    <client>
+        <demande>
+            <destination></destination>
+            <periode></periode>
+            <duree></duree>
+            <nbParticipants></nbParticipants>
+            <tarifMax></tarifMax>
+            <propositions>
+                <proposition></proposition>
+            </propositions>
+        </demande>
+    </client>
+</commercial>
